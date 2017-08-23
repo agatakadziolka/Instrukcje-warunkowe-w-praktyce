@@ -1,0 +1,19 @@
+{
+  "name": "instrukcje-warunkowe-w-praktyce",
+  "version": "1.0.0",
+  "description": "Instrukcje warunkowe w praktyce",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "instrukcje",
+    "warunkowe"
+  ],
+  "author": "Agata Kądziołka",
+  "license": "ISC"
+}
